@@ -1,3 +1,8 @@
+# THIS IS A CLONED REPO, NONE OF THIS WORK IS MINE
+
+I just copied it because it seems the original one was deleted for some reason and I need to use this in other machine, 
+this is the link to the github account of the original author: https://github.com/alexherbo2 
+
 # auto-pairs.kak
 
 Auto-paired characters for [Kakoune].
